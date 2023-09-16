@@ -1,2 +1,1 @@
-# bharnaa
-Online Medical Appointment System in Java.
+# online_medical_appointment_system
